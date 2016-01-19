@@ -2,7 +2,7 @@
   "name": "d3-timeseries",
   "version": "0.0.1",
   "description": "Time series charting library based on d3.js",
-  "main": "./src/d3/d3_timeseries.js",
+  "main": "src/d3_timeseries.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
